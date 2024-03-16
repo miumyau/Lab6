@@ -3,7 +3,7 @@
 //Знаки препинания не используются. Найти самое длинное слово в строке.
 
 class Program
-{
+{ 
     static void Main(string[] args)
     {
         Console.WriteLine("введите предложение");
